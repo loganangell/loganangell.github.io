@@ -1,6 +1,4 @@
 # Logan Angell
-### lmangell95@gmail.com | West Virginia <br>
-### ![GitHub](https://github.com/loganangell) | ![LinkedIn](https://www.linkedin.com/in/logan-angell/) <br>
 
 ## <b>Work Experience</b>
 <b> First Community Bank </b> <br>
@@ -13,7 +11,7 @@ Bluefield, VA (Remote)
 * Identify relevant trends in underwriting and documentation that may affect the quality of the loan portfolio
 * Analytically evaluate the commercial loan portfolio for credit quality and risk indicators
 
-<b> Daly Hotel Management <b>
+<b> Daly Hotel Management <b> <br>
 Beckley, WV
 
 <b>Hotel General Manager</b>						     June 2020 to January 2022
