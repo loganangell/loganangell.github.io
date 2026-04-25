@@ -3,7 +3,7 @@
 ### ![GitHub](https://github.com/loganangell) | ![LinkedIn](https://www.linkedin.com/in/logan-angell/) <br>
 
 ## Work Experience
-<b> First Community Bank </b> 
+<b> First Community Bank </b> <br>
 Bluefield, VA (Remote)
 
 <b>Loan Review Analyst</b> - January 2022 to Present
