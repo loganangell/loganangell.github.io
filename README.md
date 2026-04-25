@@ -48,7 +48,7 @@ Athens, WV
 •	GPA: 3.75
 •	Relevant Coursework: Accounting Principals, Business Productivity Software, Elementary Statistics 
 
-##<b>Projects</b>
+## <b>Projects</b>
 
 <b>Lottery Tax Calculation Program</b>
 Skills and Tools: Python, Pandas, Matplotlib, Git, GitHub, Terminal
